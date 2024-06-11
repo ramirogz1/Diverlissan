@@ -9,7 +9,7 @@ export const About = () => {
       <div className="row align-items-center mt-5">
         <div className="col-md-6 mt-4">
           {/* <img src="https://img.freepik.com/vector-premium/saltar-trampolin-ninos-juegos-ninos-activos-ilustracion-dibujos-animados-juegos-infantiles_80590-6608.jpg?w=740" alt="Imagen" className="img-fluid" /> */}
-          <img src="./src/images/kids_saltando.png" alt="images_kids" className="img-fluid" />
+          <img src="/images/kids_saltando.png" alt="images_kids" className="img-fluid" />
         </div>
         <div className="col-md-6" >
           <h2>Sobre nosotros</h2>
