@@ -1,0 +1,8 @@
+.word-container {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .word-container h3 {
+    margin-right: 10px; /* Espacio entre las palabras */
+  }

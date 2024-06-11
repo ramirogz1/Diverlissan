@@ -1,0 +1,28 @@
+
+.about {
+  
+     
+     text-align: center;
+ }
+ 
+ .tituloAbout{
+     padding-top: 3.2rem;
+     display: flex;
+     justify-content: center;
+    
+ }
+ 
+ .about h2 {
+     padding: 0 3rem;
+ }
+
+ @media (max-width:600px){
+    body{
+        background-color: red;
+       
+    }
+    h2{
+        font-size: medium;
+    }
+
+ }

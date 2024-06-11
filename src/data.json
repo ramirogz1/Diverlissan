@@ -1,0 +1,40 @@
+[
+  {
+    "id": 1,
+    "title": "Castillos Inflables",
+    "image": "src/images/castillo.png",
+    "description": "Déjanos llevar la diversión a nuevas alturas con nuestros castillos inflables."
+  },
+  {
+    "id": 2,
+    "title": "Cama Elastica",
+    "image": "src/images/cama_elastica.png",
+
+    "description": "¡Saltar nunca ha sido tan divertido! Nuestras camas elásticas son seguras y duraderas, y ofrecen una experiencia de salto emocionante para los niños ."
+  },
+  {
+    "id": 3,
+    "title": "Metegol",
+    "image": "https://dcdn.mitiendanube.com/stores/001/239/905/products/diagonal-111-4370d92d2a023f8f5216164468989065-640-0.jpg",
+    "description": "¡El clásico juego de fútbol de mesa que nunca pasa de moda! Nuestros metegoles son de alta calidad y garantizan horas de diversión para jugadores de todas las edades."
+  },
+  {
+    "id": 4,
+    "title": "Juegos de Tejo",
+    "image": "https://dcdn.mitiendanube.com/stores/001/239/905/products/diagonal-111-4370d92d2a023f8f5216164468989065-640-0.jpg",
+    "description": "¡Prepárate para la competencia con nuestros juegos de tejo! Perfectos para desafiar a tus amigos y familiares a una emocionante partida llena de acción y diversión.."
+  },
+  {
+    "id": 5,
+    "title": "Puff y Mesas Infantiles",
+    "image": "src/images/puff.png",
+    "description": "Agrega un toque de comodidad y estilo a tu evento con nuestros puff, nuestros puff brindan confort y versatilidad a cualquier espacio."
+  },
+  {
+    "id": 6,
+    "title": "Mesas y Sillas (adicional)",
+    "image": "src/images/tablones-sillas.png",
+    "description": "Ofrecemos una amplia selección de mesas y sillas para crear el ambiente perfecto en tu evento. Ya sea  para una reunión al aire libre o una cena entre amigos y/o familia tenemos todo lo que necesitas para completar tu espacio."
+  }
+
+]
