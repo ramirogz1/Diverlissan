@@ -15,13 +15,13 @@
   {
     "id": 3,
     "title": "Metegol",
-    "image": "https://dcdn.mitiendanube.com/stores/001/239/905/products/diagonal-111-4370d92d2a023f8f5216164468989065-640-0.jpg",
+    "image":"src/images/metegol.png",
     "description": "¡El clásico juego de fútbol de mesa que nunca pasa de moda! Nuestros metegoles son de alta calidad y garantizan horas de diversión para jugadores de todas las edades."
   },
   {
     "id": 4,
-    "title": "Juegos de Tejo",
-    "image": "https://dcdn.mitiendanube.com/stores/001/239/905/products/diagonal-111-4370d92d2a023f8f5216164468989065-640-0.jpg",
+    "title": "Juego de Tejo",
+    "image": "src/images/Tejo.png",
     "description": "¡Prepárate para la competencia con nuestros juegos de tejo! Perfectos para desafiar a tus amigos y familiares a una emocionante partida llena de acción y diversión.."
   },
   {
