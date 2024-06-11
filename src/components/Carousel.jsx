@@ -5,13 +5,13 @@ export const Carousel = () => {
     <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item active">
-      <img src="src/images/nenes1.png" className="d-block w-100" alt="..." style={{maxHeight: "550px"}}/>
+      <img src="/images/nenes1.png" className="d-block w-100" alt="..." style={{maxHeight: "550px"}}/>
     </div>
     <div className="carousel-item">
-      <img src="src/images/nenesJugando.png" className="d-block w-100" alt="..." style={{maxHeight: "550px"}}/>
+      <img src="/images/nenesJugando.png" className="d-block w-100" alt="..." style={{maxHeight: "550px"}}/>
     </div>
     <div className="carousel-item">
-      <img src= "src/images/nenes2.png" className="d-block w-100" alt="..." style={{maxHeight: "550px"}}/>
+      <img src= "/images/nenes2.png" className="d-block w-100" alt="..." style={{maxHeight: "550px"}}/>
     </div>
   </div>
   <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
